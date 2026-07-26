@@ -114,33 +114,6 @@ If Docker or another containerized solution is available, include those instruct
 
 ---
 
-## Development
-
-Describe the development environment.
-
-Examples:
-
-- Python version
-- Required packages
-- Virtual environment
-- Operating system (if required)
-
----
-
-## GitHub Workflow
-
-Briefly describe how the team collaborated.
-
-For example:
-
-- branching strategy
-- pull requests
-- code reviews
-- issue tracking
-- commit conventions
-
----
-
 ## Limitations
 
 Discuss important assumptions and limitations.
