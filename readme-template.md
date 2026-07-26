@@ -1,13 +1,12 @@
 ![Course](https://img.shields.io/badge/Course-CME538-blue)
-![Term](https://img.shields.io/badge/Term-Fall%202026-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
-# CME538-BigProject-Template
 
 # Project Title
 
-> One-sentence summary of your project.
-> Optional: Add a project image, dashboard, or workflow diagram here.
+One-sentence summary of your project.
+
+![Project Overview](path/to/image.png)
+
+*A short caption describing the figure, dashboard, or workflow shown above.*
 
 ---
 
@@ -22,7 +21,7 @@ Describe:
 - the motivation for the project,
 - how data science helps address the problem.
 
-Keep this section concise
+Keep this section concise and focused on the overall purpose of the project.
 
 ---
 
@@ -40,9 +39,9 @@ Examples:
 
 ---
 
-## Datasets
+## Dataset(s)
 
-Describe each dataset used in the project.
+Describe the datasets used in the project.
 
 For each dataset include:
 
@@ -51,13 +50,26 @@ For each dataset include:
 - Description
 - Time period (if applicable)
 - License or citation
-- Why it was selected
+- Why the dataset was selected
+
+---
+
+## Results
+
+Summarize the main findings of the project.
+
+Include:
+
+- important visualizations,
+- model performance (if applicable),
+- engineering insights,
+- key conclusions.
 
 ---
 
 ## Methodology
 
-Provide a high-level overview of the workflow.
+Provide a high-level overview of the project workflow.
 
 Typical stages include:
 
@@ -71,83 +83,113 @@ Typical stages include:
 
 ---
 
-## Results
+## Repository Structure
 
-Summarize the main findings.
+Describe the organization of the repository.
 
-Include:
+Example:
 
-- important visualizations
-- model performance (if applicable)
-- engineering insights
+```text
+data/
+    raw/
+    processed/
+
+deliverables/
+    deliverable_1/
+    deliverable_2/
+
+docs/
+
+notebooks/
+
+reports/
+
+src/
+
+README.md
+```
+
+Provide a brief description of any additional folders created.
 
 ---
+
 ## Quick Start
 
-Provide the fastest way for someone to view or interact with your project.
+Provide the fastest way for a user or evaluator to access and explore your project.
 
-Examples include:
+Examples:
 
-- Visit the deployed web application
-- Open the interactive dashboard
-- Launch the Streamlit application
-- View the Jupyter notebook
-- Open the final report
+- Link to a deployed web application
+- Interactive dashboard
+- Streamlit application
+- Demo video
+- Final notebook
+- Project report
 
-The easier it is for others to access your project, the better.
+The easier it is for others to access and understand your project, the better the user experience.
 
 ---
+
 ## Running the Project
 
-Provide complete instructions for reproducing your work.
+Provide complete step-by-step instructions for running and reproducing your project.
 
 Include:
 
-- Prerequisites
-- Installation steps
-- Required packages
-- Dataset setup
-- Commands to execute the project
-- Expected outputs
+- prerequisites,
+- installation steps,
+- required packages,
+- dataset setup,
+- commands to execute the project,
+- expected outputs.
 
-If Docker or another containerized solution is available, include those instructions as well.
+If Docker or another containerized solution is available, include those instructions here.
 
 ---
 
 ## Limitations
 
-Discuss important assumptions and limitations.
+Discuss important assumptions and limitations of the project.
 
 Examples include:
 
-- data availability
-- data quality
-- modelling assumptions
-- computational limitations
+- data availability,
+- data quality,
+- modelling assumptions,
+- computational limitations,
+- generalizability of results.
 
 ---
 
 ## Future Work
 
-Describe potential improvements or extensions.
+Describe potential improvements, extensions, or future directions for the project.
 
 ---
 
-## Contributors (optional)
+## Contributors (Optional)
 
 | Name | GitHub |
 |------|--------|
 | Student | @username |
 | Student | @username |
+| Student | @username |
+| Mentor TA | @username |
 
 ---
 
-## License
+## References
+
+List datasets, publications, APIs, and external resources used in the project.
+
+---
+
+## License (Optional)
 
 Specify the license used for this repository.
 
 ---
 
-## Acknowledgements
+## Acknowledgements (Optional)
 
-Briefly acknowledge any datasets, organizations, or resources used in the project.
+Briefly acknowledge datasets, organizations, or resources that supported this project.
