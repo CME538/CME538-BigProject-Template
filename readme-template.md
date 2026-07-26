@@ -2,11 +2,9 @@
 
 # Project Title
 
-One-sentence summary of your project.
+One-sentence description of the project.
 
-![Project Overview](path/to/image.png)
-
-*A short caption describing the figure, dashboard, or workflow shown above.*
+> Optional: Add a project image, dashboard, or workflow diagram here.
 
 ---
 
