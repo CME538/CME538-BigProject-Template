@@ -81,7 +81,7 @@ Typical stages include:
 
 ---
 
-## Repository Structure
+## Repository Structure (optional)
 
 Describe the organization of the repository.
 
